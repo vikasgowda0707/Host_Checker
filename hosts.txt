@@ -1,0 +1,4 @@
+google.com
+8.8.8.8
+192.168.1.1
+fakehost123.com

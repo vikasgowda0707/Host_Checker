@@ -1,0 +1,10 @@
+Network Ping Test Report 
+ Generated: 2025-10-24 20:09:40.185657
+
+test_host_reachability (__main__.testNetwork.test_host_reachability) ... 
+  test_host_reachability (__main__.testNetwork.test_host_reachability) (host='192.168.1.1') ... skipped '192.168.1.1 is unreachable, skipping test'
+
+----------------------------------------------------------------------
+Ran 1 test in 4.387s
+
+OK (skipped=1)
